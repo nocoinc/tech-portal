@@ -36,7 +36,7 @@ nocoが大切にしているビジョン・ミッション、求めるバリュ�
 
 ### 主力サービス
 
-- マニュアル＆ナレッジ管理アプリ [toaster team（トースターチーム）](https://toaster.how/)
+- マニュアル＆ナレッジ管理アプリ 「[toaster team（トースターチーム）](https://toaster.how/)」
 - 新クラウドサービス「[nocoセールス](https://noco.page/)」（2022年夏リリース予定）
 - テクノロジーで未来の営業を創るマガジン「[noco can](https://nocoinc.co.jp/media/)」
 - テクノロジーで働き方をアップデートするメディア「[スマートワークNEWS](https://toaster.how/media/)」
