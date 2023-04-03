@@ -87,7 +87,7 @@ nocoが大切にしているビジョン・ミッション、求めるバリュ�
 - サーバーサイド：Ruby on Rails
 - インフラ：AWS（EC2、ECS、Lambda、S3など）
 - プロビジョニング：Terraform
-- ミドルウェア：Algolia
+- ミドルウェア：Algolia、ChatGPT
 - 決済：Stripe
 - モニタリング：Sentry
 - DB：MySQL
@@ -138,9 +138,9 @@ nocoが大切にしているビジョン・ミッション、求めるバリュ�
 
 ※ ジョイン後1ヶ月程度での習得を期待
 
-- SWR もしくは Recoil を用いた開発経験
-- MUI 、Ant Design もしくは Chakra UI での開発経験
-- Mock Service Worker もしくは Prisma を用いた モックAPI 開発
+- SWR を用いた開発経験
+- MUI での開発経験
+- Mock Service Worker を用いた モックAPI 開発
 
 **BETTER**
 
